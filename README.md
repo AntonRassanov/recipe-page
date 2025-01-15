@@ -4,8 +4,8 @@ Simple recipe page
 
 ### Links
 
-- Solution URL: https://github.com/AntonRassanov/QR-code-component
-- Live Site URL: https://antonrassanov.github.io/qr-code-component/index.html
+- Solution URL: https://github.com/AntonRassanov/recipe-page
+- Live Site URL: https://antonrassanov.github.io/recipe-page/index.html
 
 ## Built with
 
